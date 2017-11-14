@@ -1,0 +1,8 @@
+.cache/
+build/
+dist/
+unitconvert.egg-info/
+unitconvert/.cache/
+unitconvert/__pycache__/
+unitconvert/unitconvert.egg-info/
+
